@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Copy all 3 folders and add Sodium!.url"
+hash = "79731de8a72814f5e0e0014010d3ad12df39d25c38fca377c095c3a50ab0d7f6"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "0d3aa45e58504e65e2dbdcc9da869d218fc9c86734d193a02ca8598b1c75de0b"
 
@@ -9,8 +13,16 @@ file = "config/isxander-main-menu-credits.json"
 hash = "0f5a702f9b2a83eb24a8e0ef02bb50903019ab00dd676e7ade46f171d4eb5f58"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "735cef650db1f6820755ed3224fe663fcd9336fe571d603e6b49068c7868af12"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -85,8 +97,40 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
 
 [[files]]
+file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
+hash = "8e3a9c595f4d649c63a98fecba4ed72b29a6556affc171a94160bbc508b17659"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
+hash = "4724efa42921327874a3fcaf7e1d136d47805ef2d17fd0cdbdb962942552f638"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+hash = "17cfebadbfa9c7d8c21f5e6c010639ee5d6af3391acabbba5e48751e3cfa52eb"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
+hash = "da6d04efd47eb0913dbb3b975cd7c5a5d7d3147be2f762984cba79097d8dfc91"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_server_config.json"
+hash = "311a3dcf4bd44c451f392203fb16df827abfdac7b0d738e1ee99fee2bc1fe024"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_vines_client_config.json"
+hash = "e8f49a584e8af669f5caedb247119410d7e55e8d3eb35bea54d7fb73a13cdc0d"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "5b247fffd1813319a52a327d3d58d6073a348f5c64cd9ae0e39e7e1901cb1790"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -97,20 +141,8 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "d7dca38f558ac4a440fa86ccd0eaeb7051e8f28c7b674e820b6ed47927aa55fa"
+file = "config/yosbr/options.txt"
+hash = "8274ae7b390631fc0ec117310335923d6e00c3ec28a4567347b60ee3ba562373"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -125,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "0991a1ba8449cb9b99040bfdaf563d98b64b1d22a6ed2bccc401d2af1fdc731c"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
 metafile = true
 
 [[files]]
@@ -183,11 +220,6 @@ hash = "abac7fa35a6bd77c59fe23d31ffa4f31d09421fdfd0bf137dca9701142e17322"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
-metafile = true
-
-[[files]]
 file = "mods/entity_model_features.pw.toml"
 hash = "d645f76d29084e30a3ae28ba202a5a39d4f56c242c09fafc7bdc6b5f6af8e086"
 metafile = true
@@ -195,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
 hash = "84b9a9378a376f194df9a8bf5036d56511a2f05491fc2db8b62e24e7511f7973"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
 metafile = true
 
 [[files]]
@@ -223,6 +260,11 @@ hash = "1b242182d81d92734769025a6e13805764213dfd1f676b1e4745e80c5077691f"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
+metafile = true
+
+[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "968192cb6a523f5f9e83e0e5c7866995402e1f69166e7c95dcf0be800e08456f"
 metafile = true
@@ -235,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "c895b10d9f5fda7098a2ca162639a850e9dfaeec43ff24fe09830f7491acc7c4"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -258,6 +305,16 @@ hash = "92c8cc2b6a72e68f874e9e57515d06de3570b628422408523e5b584fef025480"
 metafile = true
 
 [[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
+metafile = true
+
+[[files]]
 file = "mods/lambdynlights.pw.toml"
 hash = "3454ba8fd73bb6187232dd8bab7fa60cb0cadc4b754e48f82b017e7df84045ca"
 metafile = true
@@ -270,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ff1e17e5c0670835621e2dcc69e6d29908c928253fa43019bca2f69c983776e6"
-metafile = true
-
-[[files]]
-file = "mods/isxander-main-menu-credits.pw.toml"
-hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
 
 [[files]]
@@ -318,13 +370,28 @@ hash = "b8ce37d18891f24b2d334d33c0418643087c6a234a995f6ccd667df7af98fd60"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "8f85069b038b5c81651161cc83c33cd941da1d5f3ac02abb16e76deba58fd1eb"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "35f482aa3e8acb36cadafa8ef0832c8760b576c94731eaaecdf6b8e60359ddc5"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1ed3355090b2098ac551b98b98e778c694f2b2bfd0166b891ff62a09d108762"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2c4c14cf325fa22c0786e872ee0b36646790706da68bdfd32e33c28805be3e8a"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
 metafile = true
 
 [[files]]
@@ -366,3 +433,11 @@ metafile = true
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "1185e63e7327860f0e1f0a1e3c4f96bd83dfd3ac524fd2ac8e93b360bcb18e9c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "d7dca38f558ac4a440fa86ccd0eaeb7051e8f28c7b674e820b6ed47927aa55fa"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"

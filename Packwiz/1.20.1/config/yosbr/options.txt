@@ -6,11 +6,11 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Stay_True_1.20.zip"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
-skipMultiplayerWarning:true
+skipMultiplayerWarning:false
 joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:false
@@ -19,6 +19,6 @@ key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown

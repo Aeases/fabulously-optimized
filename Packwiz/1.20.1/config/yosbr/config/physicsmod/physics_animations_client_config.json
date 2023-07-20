@@ -1,0 +1,218 @@
+{
+  "customizedAnimations": [
+    {
+      "identifier": 0,
+      "Name": "default",
+      "Animation Curve": 0,
+      "Despawn Speed": 0.5,
+      "Type": 0,
+      "Particle Spawn": []
+    },
+    {
+      "identifier": 5,
+      "Name": "portal",
+      "Animation Curve": 0,
+      "Despawn Speed": 0.0,
+      "Type": 0,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:reverse_portal",
+          "Amount": 16,
+          "Spread Radius": 0.8,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.1,
+          "Sound": "minecraft:block.portal.ambient"
+        }
+      ]
+    },
+    {
+      "identifier": 9,
+      "Name": "warden_anim",
+      "Animation Curve": 4,
+      "Despawn Speed": 1.2099999,
+      "Type": 2,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:sonic_boom",
+          "Amount": 1,
+          "Spread Radius": 0.2,
+          "Spawn Chance": 0.5,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.009999999776482582,
+          "Sound Volume": 0.1,
+          "Sound": "minecraft:entity.warden.sonic_boom"
+        },
+        {
+          "Type": "minecraft:sculk_soul",
+          "Amount": 29,
+          "Spread Radius": 5.059999942779541,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.4099999964237213,
+          "Velocity Y": 0.26999998092651367,
+          "Velocity Z": 0.009999999776482582,
+          "Sound Volume": 0.1
+        }
+      ]
+    },
+    {
+      "identifier": 6,
+      "Name": "splash",
+      "Animation Curve": 0,
+      "Despawn Speed": 0.0,
+      "Type": 0,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:splash",
+          "Amount": 16,
+          "Spread Radius": 0.7,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.1,
+          "Sound": "minecraft:entity.dolphin.splash"
+        }
+      ]
+    },
+    {
+      "identifier": 1,
+      "Name": "vanish",
+      "Animation Curve": 2,
+      "Despawn Speed": 0.5,
+      "Type": 1,
+      "Particle Spawn": []
+    },
+    {
+      "identifier": 10,
+      "Name": "blaze_anim",
+      "Animation Curve": 3,
+      "Despawn Speed": 0.34,
+      "Type": 1,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:smoke",
+          "Amount": 14,
+          "Spread Radius": 1.0,
+          "Spawn Chance": 0.5,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.029999999329447746,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.6800000071525574,
+          "Sound": "minecraft:entity.blaze.burn"
+        }
+      ]
+    },
+    {
+      "identifier": 7,
+      "Name": "player_death_anim",
+      "Animation Curve": 5,
+      "Despawn Speed": 2.0,
+      "Type": 1,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:soul",
+          "Amount": 1,
+          "Spread Radius": 0.19999998807907104,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.029999999329447746,
+          "Velocity Z": 0.0,
+          "Sound Volume": 1.0,
+          "Sound": "minecraft:particle.soul_escape"
+        }
+      ]
+    },
+    {
+      "identifier": 8,
+      "Name": "doggo_anim",
+      "Animation Curve": 4,
+      "Despawn Speed": 0.96999997,
+      "Type": 1,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:poof",
+          "Amount": 32,
+          "Spread Radius": 1.7300000190734863,
+          "Spawn Chance": 1.0,
+          "Velocity X": -0.12999999523162842,
+          "Velocity Y": 0.029999999329447746,
+          "Velocity Z": 0.07999999821186066,
+          "Sound Volume": 0.1
+        },
+        {
+          "Type": "minecraft:soul",
+          "Amount": 1,
+          "Spread Radius": 0.2,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.12999999523162842,
+          "Velocity Y": 0.09999999403953552,
+          "Velocity Z": 0.0,
+          "Sound Volume": 2.0,
+          "Sound": "minecraft:particle.soul_escape"
+        }
+      ]
+    },
+    {
+      "identifier": 3,
+      "Name": "explosion",
+      "Animation Curve": 1,
+      "Despawn Speed": 0.5,
+      "Type": 2,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:lava",
+          "Amount": 4,
+          "Spread Radius": 0.5,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.1,
+          "Sound": "minecraft:block.lava.extinguish"
+        },
+        {
+          "Type": "minecraft:poof",
+          "Amount": 7,
+          "Spread Radius": 0.5,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.1
+        }
+      ]
+    },
+    {
+      "identifier": 4,
+      "Name": "poof",
+      "Animation Curve": 0,
+      "Despawn Speed": 0.0,
+      "Type": 0,
+      "Particle Spawn": [
+        {
+          "Type": "minecraft:poof",
+          "Amount": 6,
+          "Spread Radius": 0.8,
+          "Spawn Chance": 1.0,
+          "Velocity X": 0.0,
+          "Velocity Y": 0.0,
+          "Velocity Z": 0.0,
+          "Sound Volume": 0.2,
+          "Sound": "minecraft:entity.fox.sniff"
+        }
+      ]
+    },
+    {
+      "identifier": 2,
+      "Name": "bounce",
+      "Animation Curve": 3,
+      "Despawn Speed": 0.6,
+      "Type": 0,
+      "Particle Spawn": []
+    }
+  ]
+}
