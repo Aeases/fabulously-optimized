@@ -1,0 +1,354 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Copy all 3 folders and add Sodium!.url"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+
+[[files]]
+file = "config/yosbr/config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+
+[[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_cloth_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_server_config.json"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_vines_client_config.json"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+
+[[files]]
+file = "config/yosbr/options.txt"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bettermounthud.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/borderlessmining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/citresewn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamicfps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4mc_minecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhancedblockentities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity_model_features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fsb-interop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/languagereload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fast_Better_Grass.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+
+[[files]]
+file = "resourcepacks/SodiumTranslations.zip"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip"
+
+[[files]]
+file = "resourcepacks/Translations_for_Sodium.pw.toml"
+metafile = true

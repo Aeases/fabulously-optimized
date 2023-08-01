@@ -63,8 +63,8 @@
   "mobSettings": {
     "Physics Type": 0,
     "Lifetime": 0.4000000059604645,
-    "Lifetime Variance": 0.10000000149011612,
-    "Animation": 1
+    "Lifetime Variance": 2.0,
+    "Animation": 11
   },
   "sprintingPhysicsParticles": true,
   "eatingPhysicsParticles": true,
@@ -113,7 +113,7 @@
   "particleSnowOpacity": 1.0,
   "particleDustOpacity": 1.0,
   "itemRotationSpeed": 1.0,
-  "jointBreakForce": 1.0,
+  "jointBreakForce": 0.94,
   "jointBlood": 1.0,
   "mobRagdollLimit": 16,
   "clothEntityRange": 48.0,

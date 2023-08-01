@@ -87,6 +87,14 @@
       "Particle Spawn": []
     },
     {
+      "identifier": 11,
+      "Name": "blinkout",
+      "Animation Curve": 5,
+      "Despawn Speed": 0.48,
+      "Type": 1,
+      "Particle Spawn": []
+    },
+    {
       "identifier": 10,
       "Name": "blaze_anim",
       "Animation Curve": 3,
@@ -110,7 +118,7 @@
       "identifier": 7,
       "Name": "player_death_anim",
       "Animation Curve": 5,
-      "Despawn Speed": 2.0,
+      "Despawn Speed": 1.6999999,
       "Type": 1,
       "Particle Spawn": [
         {

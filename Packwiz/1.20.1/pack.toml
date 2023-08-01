@@ -1,13 +1,15 @@
 name = "Requisite"
 author = "aeases"
-version = "2.0a"
+version = "20.521"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "39a2ea1466ec815d0d46c1b09288dc8e6e3f46695aa05796c1e92676a4a9a9a7"
 
 [versions]
 fabric = "0.14.21"
 minecraft = "1.20.1"
+
+[options]
+no-internal-hashes = true
