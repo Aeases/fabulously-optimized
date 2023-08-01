@@ -15,7 +15,11 @@
             {
                 "translate": "isxander-main-menu-credits.antighost",
                 "fallback": "Fix ghost blocks with /ghost",
-                "color": "dark_gray"
+                "color": "dark_gray",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/ghost"
+                }
             }
         ]
     }
