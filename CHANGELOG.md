@@ -3,6 +3,29 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.2.1 (2023-07-30)
+
+Fabulously Optimized remains unaffected from the Bleeding Pipe/MC Mad Gadget vulnerability.
+
+- Updated Controlify, Fabric API, ImmediatelyFast, Reese's Sodium Options
+- Updated Chinese Traditional, French, German (partial), Russian translations
+
+### 5.2.0 (2023-07-24)
+
+- Added Translations for Sodium - unofficial, but already quite complete crowd-sourced translations
+  - Contribute on https://crowdin.com/project/sodium-fabric
+  - Managed by myself and FlashyReese (Sodium Extra dev) as an independent project
+  
+    <details>
+  
+    - CF https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium
+    - MR https://modrinth.com/resourcepack/translations-for-sodium
+    - GH https://github.com/Madis0/sodium-fabric-translations/
+  
+  </details>
+
+- Updated Continuity, Fabric Language Kotlin, Fabric API, Farsight (CurseForge), OptiGUI, YetAnotherConfigLib
+
 ### 5.1.1 (2023-07-19)
 
 - Updated e4mc, FabricSkyboxes Interop, OptiGUI, Sodium Extra
