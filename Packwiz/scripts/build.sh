@@ -9,6 +9,8 @@ echo ${pack_root}
 if [ ! -d "$indextoml" ]; then
     # If the directory doesn't exist, create it
     touch "$indextoml"
+else
+    echo "" > $indextoml
 fi
 
 if [ ! -d "$build_dir" ]; then
@@ -29,7 +31,7 @@ fi
 }
 pack_filename="$(basename ${modrinthpack})"
 mv $modrinthpack $build_dir
-
+echo "" > $indextoml
 if [ -f "$build_dir/.log" ] && [ -f "$build_dir/${pack_filename}" ]; then
     # If any ".mrpack" file exists, delete the log file
     rm "$build_dir/.log"
