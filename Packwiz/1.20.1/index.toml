@@ -8,12 +8,7 @@ file = "config/fabric_loader_dependencies.json"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "8c072f22c2492141e7ab445975b41e56a60116f679498748deeaa64a7ef68f47"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
@@ -106,7 +101,16 @@ file = "config/yosbr/config/sodium-options.json"
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 
 [[files]]
-file = "config/yosbr/options.txt"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -330,10 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
+hash = "e13d84282eadfb56b43feca620ab4a133b36cd7d20161567817b9a1de8a2dc98"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
+hash = "3406966a9084ec2b7efbcf6a39e3498ca631850e64288a461a80accf841f5ca5"
 metafile = true
 
 [[files]]
@@ -351,4 +357,5 @@ file = "resourcepacks/Stay_True_1.20.zip"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
+hash = "babe37470bafe497c63e48608a9bd6447cd7d311851173b8f658a9d496c76fda"
 metafile = true
